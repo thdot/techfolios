@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/gsk-immunohack.png
 title: "GSK Immunohack: TwoBirds"
-date: 2018
+date: 2022
 published: true
 labels:
   - Hackathon

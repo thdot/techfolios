@@ -2,7 +2,10 @@
   <div class="card h-100">
     <div class="card-body">
       <h5 class="card-title">{{ include.page.title }}</h5>
-      <p class="card-text">{{ include.page.content | markdownify }}</p>
+      <p class="card-text">{{ include.page.publisher }}</p>
+      <div class="paper-abstract">
+        <p class="card-text">{{ include.page.content | markdownify }}</p>
+      </div>
       <p>
         {% for label in include.page.labels %}
         <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>

@@ -33,3 +33,19 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+.bio-icons {
+  font-size:1em;
+  line-height:1em;
+}
+.bio-icon:hover {
+  transform:scale(1.3);
+  -moz-transform:scale(1.3);
+  -webkit-transform:scale(1.3);
+  -ms-transform:scale(1.3);
+  -o-transform:scale(1.3);
+}
+
+.paper-abstract {
+  font-size: 80%;
+}

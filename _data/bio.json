@@ -1,16 +1,15 @@
 {
   "basics": {
-    "name": "Katie Amberg-Johnson",
-    "label": "Senior Scientist, <a href=\"https://www.schrodinger.com/\">Schr&ouml;dinger, Inc.</a>",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "katieambergjohnson@gmail.com",
-    "phone": "",
-    "website": "https://kambergjohnson.github.io",
-    "summary": "An interdisciplinary and innovative scientist combining both wet-lab expertise with computational skills. A team-oriented drug discovery biologist with experience contributing in cross-functional teams. Broad interests with projects spanning oncology, liver disease, and infectious disease.",
-    "location": { "address": "", "postalCode": "10002", "city": "New York", "countryCode": "USA", "region": "New York" },
+    "name": "Thorsten Horstmann",
+    "label": "Researcher - Wireless Communication Security",
+    "picture": "/images/me.jpg",
+    "email": "mail@thorsten-horstmann.de",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/kambergjohnson" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/katieambergjohnson" }
+      { "network": "github", "username": "thdot", "url": "http://github.com/thdot" },
+      { "network": "xing", "username": "Thorsten_Horstmann", "url": "https://www.xing.com/profile/Thorsten_Horstmann" },
+      { "network": "linkedin", "username": "thorsten-horstmann", "url": "http://linkedin.com/in/thorsten-horstmann" },
+      { "network": "researchgate", "username": "Thorsten-Horstmann", "url": "https://www.researchgate.net/profile/Thorsten-Horstmann" }
     ]
   }
 }
